@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MIBServiceFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7091",
+      "launchBrowser": false
+    }
+  }
+}
